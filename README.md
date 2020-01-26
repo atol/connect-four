@@ -10,7 +10,9 @@ horizontal, vertical or diagonal line of four of their own discs.
 
 Compile the program by running `make`.
 
-Run `./main' to start the game.
+Run `./main` to start the game.
+
+Clean up the directory by removing executable and object files by running `make clean`.
 
 ## Implementation
 
